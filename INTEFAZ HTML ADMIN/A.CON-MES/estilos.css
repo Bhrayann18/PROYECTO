@@ -1,0 +1,199 @@
+*{
+    padding: 0;
+    margin: 0; 
+}
+
+body{
+    background-color: white;
+}
+#contenedor{
+    width: 950px;
+    margin: auto;
+}
+
+main{
+  
+    width: 950px;
+    height: 200px;
+    background-color: #FEF7DC;
+}
+
+h1{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 40px;
+position: relative;
+top: 80px;
+left: 300px;
+}
+
+h2{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 35px;
+position: relative;
+top: 110px;
+left: 20px;
+}
+#destacada {
+    position: relative;
+    top: -80px;
+    left: 40px;
+    width: 150px;
+    height: 150px;
+  }
+
+header{
+    text-align: center;
+    background-color: #E6DDC6;
+
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    font-family:inherit;
+    font-size: 14px;
+    color: black;
+    font-weight:bold;
+
+}
+header nav ul li a:hover{
+    color: white;
+}
+
+section{
+    float: left;
+    width: 750px;
+    height: 450px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: #C2B8A3;
+}
+
+aside{
+    margin-top: 5px;
+    float: left;
+    width: 195px;
+    height: 300px;
+    margin-left: 5px;
+    background-color: #E6DDC6;
+}
+#notificacion{
+    position: relative;
+    top: 80px;
+    left: -4px;
+    width: 35px;
+    height: 30px;
+}
+    
+#buscador {
+    
+        background: url(lupa.png) no-repeat 0px 5px;
+        background-size: 24px;
+        position: relative;
+        width: 180px;
+        border: transparent;
+        padding: 10px 10px 10px 50px;
+        outline:invert;
+      }
+
+#afuera{
+position: relative;
+top: 60px;
+left: -2px;
+width: 35px;
+height: 30px;
+
+}
+#izquierda{
+    position: relative;
+    top: 100px;
+    left: -38px;
+    width: 35px;
+    height: 30px;
+    
+    }
+aside:nth-of-type(2){
+
+    height:150px ;
+}
+#lupa{
+    position: relative;
+    top: 100px;
+    left: 5px;
+    width: 45px;
+    height: 40px;
+}
+    #ayuda{
+        position: relative;
+        top: 100px;
+        left: 100px;
+        width: 45px;
+        height: 40px;
+    }
+        #color{
+            position: relative;
+            top: 100px;
+            left: -20px;
+            width: 45px;
+            height: 40px;
+        }
+h5{
+    clear: both;
+    width: 950px;
+    height: 50px;
+    background-color: #F8F9D7;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    line-height: 70px;
+    
+}
+
+h6{
+
+    clear: both;
+    width: 950px;
+    height: 50px;
+    display: inline-block;
+    background-color: #F8F9D7;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    line-height: 70px;
+}
+footer{
+    clear: both;
+    width: 950px;
+    height: 120px;
+    background-color:  #A19882;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    line-height: 70px;
+    
+}
+ul.navega li {
+    display: inline;
+    padding:25px;
+    padding-right: 0.5em;
+    text-decoration: none;
+    font-family:inherit;
+    font-size: 14px;
+    color: white;
+    font-weight:bold;
+  }
+
+ul.footer-basic-centered{
+        display: inline;
+        position: relative;
+        font-family: inherit;
+        font-weight:bold;
+        font-size: 12px;
+        top: -20px;
+        left: 1 px;
+
+}

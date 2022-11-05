@@ -1,0 +1,162 @@
+*{
+    padding: 0;
+    margin: 0; 
+}
+
+body{
+    background-color: white;
+}
+#contenedor{
+    width: 950px;
+    margin: auto;
+}
+
+header{
+  
+    width: 950px;
+    height: 200px;
+    background-color: #FEF7DC;
+}
+#pets{
+    float: right;
+    width: 200px;
+    height: 40px;
+    background-color: #E6DDC6;
+    position: relative;
+    top: 150px;
+
+}
+nav{
+    width: 950px;
+    height: 40px;
+    background-color: #E6DDC6;
+    position: relative;
+    top: 20px;
+}
+main{
+  
+    width: 950px;
+    height: 1150px;
+    background-color: #FEF7DC;
+    position: relative;
+    top: 30px;
+}
+
+section{
+    float:right;
+    width: 950px;
+    height: 380px;
+    margin-top:10px;
+    margin-bottom: 5px;
+    background-color: #C2B8A3; 
+}
+#mono{
+    width: 950px;
+    height: 40px;
+    background-color: #E6DDC6;
+    position: relative;
+    top: 1150px;
+
+}
+
+
+article{
+    float:right;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    background-color: #BBBFCA;
+    
+}
+#uno{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#dos{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#tres{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#cuatro{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#cinco{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#seis{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#siete{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#ocho{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#nueve{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+aside{
+    margin-top: 50px;
+    float: right;
+    width: 400px;
+    height: 50px;
+    margin-right: 5px;
+    background-color: #FEF7DC;
+}
+
+
+
+footer{
+    clear: both;
+    width: 950px;
+    height: 120px;
+    background-color: #A19882;
+    position: relative;
+    top: 50px;
+}

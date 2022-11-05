@@ -1,0 +1,291 @@
+*{
+    padding: 0;
+    margin: 0; 
+}
+
+body{
+    background-color: white;
+}
+#contenedor{
+    width: 950px;
+    margin: auto;
+}
+
+main{
+  
+    width: 950px;
+    height: 200px;
+    background-color: #FEF7DC;
+}
+
+h1{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 40px;
+position: relative;
+top: 80px;
+left: 390px;
+border-style:dashed;
+width: 235px;
+background-color: #FEF7DC;
+}
+
+h2{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 35px;
+position: relative;
+top: 110px;
+left: 20px;
+}
+#destacada {
+    position: relative;
+    top: -80px;
+    left: 40px;
+    width: 150px;
+    height: 150px;
+  }
+
+header{
+    text-align: center;
+    background-color: #E6DDC6;
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 10px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    font-family:inherit;
+    font-size: 14px;
+    color: black;
+    font-weight:bold;
+
+}
+header nav ul li a:hover{
+    color: white;
+}
+
+section{
+    float:right;
+    width: 950px;
+    height: 350px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: #C2B8A3; 
+}
+
+article{
+    float:right;
+    width: 300px;
+    height: 300px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: #BBBFCA;
+    
+}
+#uno{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#dos{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#tres{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#cuatro{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#cinco{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#seis{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#siete{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#ocho{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+#nueve{
+    float:left;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #FAF7F0;
+}
+aside{
+    margin-top: 50px;
+    float: right;
+    width: 400px;
+    height: 50px;
+    margin-right: 5px;
+    background-color: #FEF7DC;
+}
+#notificacion{
+    position: relative;
+    top: 10px;
+    left: 230px;
+    width: 35px;
+    height: 30px;
+}
+#pago{
+    position: relative;
+    top: 10px;
+    left: 60px;
+    width: 30px;
+    height: 32px;
+}
+#user1{
+    position: relative;
+    top: 10px;
+    left: 80px;
+    width: 30px;
+    height: 32px;
+}
+    
+#buscador {
+    
+        background: url(lupa.png) no-repeat 0px 5px;
+        background-size: 24px;
+        position: relative;
+        width: 180px;
+        border:black;
+        padding: 10px 10px 10px 50px;
+        outline:auto;
+      }
+
+
+aside:nth-of-type(2){
+
+    height:150px ;
+}
+#hello{
+    position: relative;
+    width: 950px;
+    height: 50px;
+    top: 350px;
+    background-color: #E6DDC6;
+}
+#lupa{
+    position: relative;
+    top:-320px;
+    left:775px;
+    width: 45px;
+    height: 40px;
+}
+    #ayuda{
+        position: relative;
+        top:-320px;
+        left:855px;
+        width: 45px;
+        height: 40px;
+    }
+        #color{
+            position: relative;
+            top:-320px;
+            left:745px;
+            width: 45px;
+            height: 40px;
+        }
+h5{
+    clear: both;
+    width: 950px;
+    height: 50px;
+    background-color: #F8F9D7;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    line-height: 70px;
+    
+}
+
+h6{
+
+    clear: both;
+    width: 950px;
+    height: 50px;
+    display: inline-block;
+    background-color: #F8F9D7;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    line-height: 70px;
+}
+footer{
+    clear: both;
+    width: 950px;
+    height: 120px;
+    background-color: #A19882;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 50px;
+    line-height: 70px;
+    
+}
+ul.navega li {
+    display: inline;
+    padding:25px;
+    padding-right: 0.5em;
+    text-decoration: none;
+    font-family:inherit;
+    font-size: 14px;
+    color: white;
+    font-weight:bold;
+  }
+
+ul.footer-basic-centered{
+        display: inline;
+        position: relative;
+        font-family: inherit;
+        font-weight:bold;
+        font-size: 12px;
+        top: -20px;
+        left: 1 px;
+
+}
+
